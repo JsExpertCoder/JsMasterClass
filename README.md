@@ -1,3 +1,2 @@
 # JsMasterClass
-Encontre aqui alguns códigos de JavaScript ligados ao ES6!
-Fique à vontade para explorar os ficheiros.
+Find some JavaScript codes linked to ES6 here! Feel free to explore the files.
