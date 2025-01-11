@@ -1,69 +1,71 @@
 # Javascript Masterclass
-Find some JavaScript codes linked to ES6 here! Feel free to explore the files.
+Find some JavaScript codes linked to ES6 here! Feel free to explore the files. <br/>
 ## Directory structure:
-<br/>
-    ├── README.md <br/>
-    ├── LICENSE <br/>
-    ├── exercises.js <br/>
-    ├── fatorialjs.js <br/>
-    ├── hello world with nodejs.js <br/>
-    ├── array/ <br/>
-    │   ├── array_accessor_API.js <br/>
-    │   ├── array_iterator_API.js <br/>
-    │   ├── array_mutator_API.js <br/>
-    │   ├── destructuring.js <br/>
-    │   ├── for in.js <br/>
-    │   └── itarables_and_itarators.js <br/>
-    ├── browser/ <br/>
-    │   ├── BOM(browser object model).js <br/>
-    │   ├── events.js <br/>
-    │   └── stangerOnMyCode.html <br/>
-    ├── exercises/ <br/>
-    │   ├── DataBaseError.mjs <br/>
-    │   ├── Parser.mjs <br/>
-    │   ├── database.mjs <br/>
-    │   ├── exercises.mjs <br/>
-    │   └── fast test.mjs <br/>
-    ├── functions/ <br/>
-    │   ├── arrow-function.js <br/>
-    │   └── function.js <br/>
-    ├── map, set,  weaks/ <br/>
-    │   ├── Set.js <br/>
-    │   ├── WeakMap.js <br/>
-    │   ├── WeakSet.js <br/>
-    │   └── map.js <br/>
-    ├── modules/ <br/>
-    │   ├── circle.mjs <br/>
-    │   ├── math.mjs <br/>
-    │   ├── math2.mjs <br/>
-    │   └── modules.mjs <br/>
-    ├── objects/ <br/>
-    │   ├── Object API.js <br/>
-    │   ├── call_apply_bind.js <br/>
-    │   ├── classes.js <br/>
-    │   ├── delete.js <br/>
-    │   ├── getter_and_setter.js <br/>
-    │   ├── in.js <br/>
-    │   ├── new.js <br/>
-    │   ├── object Boolean.js <br/>
-    │   ├── object Number.js <br/>
-    │   ├── object Object.js <br/>
-    │   ├── object String.js <br/>
-    │   ├── object date.js <br/>
-    │   ├── proxy and reflect.js <br/>
-    │   └── this.js <br/>
-    ├── others/ <br/>
-    │   ├── js <br/>ON.js <br/>
-    │   ├── error.js <br/>
-    │   ├── instanceof.js <br/>
-    │   ├── number_conversion.js <br/>
-    │   ├── promises.js <br/>
-    │   ├── setTimeOut SetInterval.js <br/>
-    │   └── with.js <br/>
-    ├── personal scripts/ <br/>
-    │   ├── ABC_to_charCode.js <br/>
-    │   ├── criptoware.js <br/>
-    │   └── test.js <br/>
-    └── regExp/ <br/>
-        ├── regExp.js <br/>
-        └── validation.js <br/>
+<pre>
+└── JsExpertCoder-JsMasterClass/
+    ├── README.md
+    ├── LICENSE
+    ├── exercises.js
+    ├── fatorialJS.js
+    ├── hello world with nodeJS.js
+    ├── array/
+    │   ├── array_accessor_API.js
+    │   ├── array_iterator_API.js
+    │   ├── array_mutator_API.js
+    │   ├── destructuring.js
+    │   ├── for in.js
+    │   └── itarables_and_itarators.js
+    ├── browser/
+    │   ├── BOM(browser object model).js
+    │   ├── events.js
+    │   └── stangerOnMyCode.html
+    ├── exercises/
+    │   ├── DataBaseError.mjs
+    │   ├── Parser.mjs
+    │   ├── database.mjs
+    │   ├── exercises.mjs
+    │   └── fast test.mjs
+    ├── functions/
+    │   ├── arrow-function.js
+    │   └── function.js
+    ├── map, set,  weaks/
+    │   ├── Set.js
+    │   ├── WeakMap.js
+    │   ├── WeakSet.js
+    │   └── map.js
+    ├── modules/
+    │   ├── circle.mjs
+    │   ├── math.mjs
+    │   ├── math2.mjs
+    │   └── modules.mjs
+    ├── objects/
+    │   ├── Object API.js
+    │   ├── call_apply_bind.js
+    │   ├── classes.js
+    │   ├── delete.js
+    │   ├── getter_and_setter.js
+    │   ├── in.js
+    │   ├── new.js
+    │   ├── object Boolean.js
+    │   ├── object Number.js
+    │   ├── object Object.js
+    │   ├── object String.js
+    │   ├── object date.js
+    │   ├── proxy and reflect.js
+    │   └── this.js
+    ├── others/
+    │   ├── JSON.js
+    │   ├── error.js
+    │   ├── instanceof.js
+    │   ├── number_conversion.js
+    │   ├── promises.js
+    │   ├── setTimeOut SetInterval.js
+    │   └── with.js
+    ├── personal scripts/
+    │   ├── ABC_to_charCode.js
+    │   ├── criptoware.js
+    │   └── test.js
+    └── regExp/
+        ├── regExp.js
+        └── validation.js
+</pre>
